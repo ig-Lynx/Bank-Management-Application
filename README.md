@@ -74,8 +74,7 @@ This project is a Java-based console application that simulates banking operatio
 - 🌍 Support for online banking features like bill payments.
 
 ## 👨‍💻 Contributors
-- **Your Name** (your.email@example.com)
-- **Additional Contributors** (if any)
+- **Daksh R Laxetti** (dakshrl15@gmail.com)
 
 ## 📜 License
 This project is licensed under the MIT License.
